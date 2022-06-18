@@ -1,2 +1,2 @@
 # Animasyon
-[YOUtube] (https://www.youtube.com)
+[YOUtube] (www.youtube.com)
